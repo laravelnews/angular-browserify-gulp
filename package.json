@@ -1,4 +1,11 @@
 {
-  "name": "Test Seed",
-  "version": "0.0.1"
+  "name": "Test-Seed",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.8.2",
+    "gulp-browserify": "^0.5.0",
+    "browserify": "^4.1.11",
+    "angular": "^1.2.18",
+    "angular-ui-router": "^0.2.10"
+  }
 }

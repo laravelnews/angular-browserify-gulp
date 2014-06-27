@@ -7,5 +7,6 @@ This is a sample seed project showing a simple way to set up all these technolog
 1. Clone the repo
 2. Run `npm install`
 3. Run `gulp`
-4. Open public/index.html in your browser
+4. Start up a local server: `php -S localhost:8888 -t public/`
+4. Open http://localhost:8888 in your browser
 
